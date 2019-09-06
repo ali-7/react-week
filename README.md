@@ -14,7 +14,9 @@
 — BREAK —
 
 - 13:00 - 15:30 <br> 
-  Demo of [js classes](https://github.com/jema28/react-week-v2/blob/master/classes-in-js.md) / [demo of class components](https://github.com/fack2/react-components-demo)
+  [js classes](https://github.com/oliverjam/es6-class-intro)
+  
+  [demo of class components](https://github.com/fack2/react-components-demo)
   
   [Mini react state workshop](https://github.com/ali-7/mini-react-state-ws)
 
