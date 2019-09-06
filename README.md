@@ -24,31 +24,42 @@
 ### Day 2
 
 - 09:00 - 10:00 <br> 
-  [Destructuring morning challenge](https://github.com/jema28/learn-destructuring)
-- 10:00 - 11:00 <br> 
-  [Forms, event listeners and methods on class components](https://github.com/oliverjam/learn-react/tree/master/05-transform-the-form)
+  Lifecycle methods (talk) - Resourses [1](https://reactjs.org/docs/react-component.html) [2](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) [3](https://www.rithmschool.com/courses/react-fundamentals/component-life-cycle) [4](https://programmingwithmosh.com/javascript/react-lifecycle-methods/)
+  
+- 10:00 - 12:00 <br> 
+  [React with dynamic data](https://github.com/sofiapoh/react-dynamic-data-workshop)
+
 
 — BREAK —
 
-- 10:00 - 11:00 <br> 
-  Lifecycle methods
-- 11:00 - 12:30 <br> 
-  [React with dynamic data](https://github.com/jema28/react-dynamic-data-codealong)
-
+- 13:00 - 15:00 <br> 
+  [Forms, event listeners and methods on class components](https://github.com/oliverjam/learn-react/tree/master/05-transform-the-form)
+  
+- 15:00 - 15:30 <br>
+  [Intro to bundlers](https://hackmd.io/p/rJBLi5mSf)
+  
 - 15:30 - 16:30 <br> 
   Amal learning English conversation sessions
 
 
 ### Day 3
 
-- 09:00 - 12:00 -- 
+- 09:00 - 12:00 <br> 
+  React mini project - [filterable product page](https://github.com/fack2/react-food-workshop)
 
 — BREAK —
 
-- 13:00 - 13:30 -- [Introduce Project](./project.md)
+- 13:00 - 14:00 <br> 
+  [Destructuring morning challenge](https://github.com/jema28/learn-destructuring)
 
-- 13:30 - 17:00 <br>
-  Projects
+- 14:00 - 15:00 <br> 
+  [what-is-this](https://github.com/ZooeyMiller/ws-what-is-this)
+  
+- 15:00 - 15:30 <br>
+  [Intro to create-react-app](https://github.com/facebook/create-react-app)
+
+- 15:30 - 17:00 <br>
+  Intro to Projects and planning 
 
 ### Day 4
 
