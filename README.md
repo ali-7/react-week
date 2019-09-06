@@ -50,10 +50,10 @@
 — BREAK —
 
 - 13:00 - 14:00 <br> 
-  [Destructuring morning challenge](https://github.com/jema28/learn-destructuring)
+  [what-is-this](https://github.com/ZooeyMiller/ws-what-is-this)
 
 - 14:00 - 15:00 <br> 
-  [what-is-this](https://github.com/ZooeyMiller/ws-what-is-this)
+  [Destructuring challenge](https://github.com/jema28/learn-destructuring)
   
 - 15:00 - 15:30 <br>
   [Intro to create-react-app](https://github.com/facebook/create-react-app)
