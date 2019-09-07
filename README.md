@@ -35,7 +35,7 @@
 — BREAK —
 
 - 13:00 - 15:00 <br> 
-  [Forms, event listeners and methods on class components](https://github.com/oliverjam/learn-react/tree/master/05-transform-the-form)
+  [Forms, event listeners and methods on class components](https://github.com/ali-7/react-forms)
   
 - 15:00 - 15:30 <br>
   [Intro to bundlers](https://hackmd.io/p/rJBLi5mSf)
