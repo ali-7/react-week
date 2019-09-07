@@ -29,7 +29,7 @@
   Lifecycle methods (talk) - Resourses [1](https://reactjs.org/docs/react-component.html) [2](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) [3](https://www.rithmschool.com/courses/react-fundamentals/component-life-cycle) [4](https://programmingwithmosh.com/javascript/react-lifecycle-methods/)
   
 - 10:00 - 12:00 <br> 
-  [React with dynamic data](https://github.com/sofiapoh/react-dynamic-data-workshop)
+  [React with dynamic data](https://github.com/ali-7/react-dynamic-data-workshop)
 
 
 — BREAK —
