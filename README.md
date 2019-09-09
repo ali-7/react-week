@@ -47,7 +47,7 @@
 ### Day 3
 
 - 09:00 - 12:00 <br> 
-  React mini project - [filterable product page](https://github.com/fack2/react-food-workshop)
+  React mini project - [filterable product page](https://github.com/ali-7/react-food-workshop)
 
 — BREAK —
 
