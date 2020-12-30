@@ -50,7 +50,7 @@
   [what-is-this](https://github.com/ZooeyMiller/ws-what-is-this)
 
 - 15:00 - 16:00 <br> 
-  [Destructuring challenge](https://github.com/jema28/learn-destructuring)
+  [Destructuring challenge](https://github.com/lina-jamal/learn-destructuring)
   
 - 16:00 - 16:30 <br>
   [Intro to create-react-app](https://github.com/facebook/create-react-app)
